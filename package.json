@@ -35,5 +35,8 @@
   },
   "pre-commit": [
     "lint"
-  ]
+  ],
+  "dependencies": {
+    "latest-version": "^7.0.0"
+  }
 }
